@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>ABI_BSC_Cls_AllRequestsExtractHelper</members>
+        <members>ABI_BSC_Cls_AllRequestsExtractScheduler</members>
+        <members>ABI_BSC_Cls_AllRequestsExtractsSchedTest</members>
+        <members>ABI_BSC_Cls_AttachFilesController</members>
+        <members>ABI_BSC_Cls_AttachFilesControllerTest</members>
+        <members>ABI_BSC_Cls_AttachmentTriggerHelper</members>
+        <members>ABI_BSC_Cls_AttachmentTriggerHelperTest</members>
+        <members>ABI_BSC_Cls_CalculateSLAEndTimeHelper</members>
+        <members>ABI_BSC_Cls_CalculateSLAEndTimeHlprTest</members>
+        <members>ABI_BSC_Cls_CaseAcceptController</members>
+        <members>ABI_BSC_Cls_CaseAcceptControllerTest</members>
+        <name>ApexClass</name>
+    </types>
+    <version>33.0</version>
+</Package>
