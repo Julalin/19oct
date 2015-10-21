@@ -6,9 +6,7 @@ Description-Test Class for ABI_BSC_Cls_AcceptCase
 *********************************/
 @isTest
 
-public Class ABI_BSC_Cls_CaseAcceptControllerTest
-
-{
+public Class ABI_BSC_Cls_CaseAcceptControllerTest{
 
 
     // Method to invoke and test the 'updateOwner' method in the ABI_Cls_CaseAcceptControllerTest.
@@ -17,7 +15,7 @@ public Class ABI_BSC_Cls_CaseAcceptControllerTest
      *Req No-
      *Description :
      *Return Type : void
-     *Parameter  : 
+     *Parameter  : void
      */
     public Static testMethod void updateOwnerTest()
 
